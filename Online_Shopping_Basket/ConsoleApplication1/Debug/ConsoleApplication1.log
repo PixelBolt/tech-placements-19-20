@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Soultion with file.cpp
+c:\users\pixelbolt\source\repos\online_shopping_basket\consoleapplication1\soultion with file.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\pixelbolt\source\repos\online_shopping_basket\consoleapplication1\soultion with file.cpp(116): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\PixelBolt\source\repos\Online_Shopping_Basket\Debug\ConsoleApplication1.exe
